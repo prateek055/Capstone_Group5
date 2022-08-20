@@ -540,7 +540,7 @@ VALUES (
         'https://www.ikea.com/in/en/images/products/snickra-8-piece-storage-board-set-grey-green__1045574_pe842659_s5.jpg?f=s'
     ),
     (
-        71,C
+        54,
         'SVENSAS',
         'wallpaper',
         699,
@@ -549,7 +549,7 @@ VALUES (
         'https://www.ikea.com/in/en/images/products/svensas-memo-board-with-pins-beige__0955383_pe803778_s5.jpg?f=s'
     ),
     (
-        72,
+        55,
         'KVICKSUND',
         'wallpaper',
         399,
