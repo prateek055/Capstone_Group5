@@ -38,7 +38,8 @@ public class CartController {
     public void add(@RequestBody Cart cart) {
         service.save(cart);
     }
-     
+    
+    @CrossOrigin(origins = "http://localhost:4200") 
     @PutMapping("/cart/{id}")
 	public void update(@RequestBody Cart cart) {
 		 service.update(cart);
